@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/hevets/Documents/workspace'
+let g:netrw_dirhist_2='/Users/hevets/Documents/workspace/lab09'
+let g:netrw_dirhist_3='/Users/hevets/Documents/workspace/lab09/src'
+let g:netrw_dirhist_4='/Volumes/hevets/workspace/MemoryLeaf-Symfony2.wiki'
+let g:netrw_dirhist_5='/home/nol'
+let g:netrw_dirhist_6='/home/nol/.vim'
+let g:netrw_dirhist_7='/home/nol'
