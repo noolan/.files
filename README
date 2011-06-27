@@ -1,4 +1,4 @@
-cp -r ./files/.[a-zA-Z0-9]* .
+cp -r .files/.[a-zA-Z0-9]* .
 cp .files/README README
 rm -rf .files/
 
