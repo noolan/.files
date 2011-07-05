@@ -8,4 +8,4 @@ rm -rf ~/.files/
 ' > /tmp/del.files.sh
 
 chmod +x /tmp/del.files.sh
-
+/tmp/del.files.sh
